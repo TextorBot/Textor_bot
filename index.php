@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Textor</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+     <p>ID : <input type="text" name="id" id="NoID" /></p>
+     <p>Message : <input type="text" name="message" id="bodyMessage" /></p>
+     <p><button id="send">Send message</button></p>
+  </body>
+</html>
